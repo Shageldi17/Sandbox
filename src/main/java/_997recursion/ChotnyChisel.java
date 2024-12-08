@@ -7,6 +7,7 @@ public class ChotnyChisel {
             continue;
             }
             System.out.println(i);
+            System.out.println();
         }
     }
 }
